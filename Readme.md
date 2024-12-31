@@ -93,9 +93,9 @@ The program uses two data files to store information:
 
 - Enhance error handling and validation mechanisms.
 
-
+## Credit
+This is a group project.
 
 ## Author
-
-Developed by @kanizfatema.
+Written by @kanizfatema.
 
